@@ -51,7 +51,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact me at [hello@davidalexandru.io](mailto:youremail@example.com).
+If you have any questions or suggestions, please feel free to contact me at hello@davidcostache.io.
 
 Happy Loan Calculations!
 
